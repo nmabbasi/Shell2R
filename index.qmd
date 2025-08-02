@@ -2,17 +2,11 @@
 title: "Shell2R Bioinformatics Hub"
 format:
   html:
-    css: styles.css
-    page-layout: full
+    toc: false  # optional: removes table of contents
 ---
 
-```         
-# Welcome to Shell2R Bioinformatics Hub
+# 🧬 Welcome to Shell2R Bioinformatics Hub
 
-Welcome to the **Shell2R Bioinformatics Analysis Hub** — a collection of curated RPubs reports and interactive visualizations focused on single-cell RNA-seq analysis of Sézary syndrome using 10x Genomics data.
+Welcome to the **Shell2R Bioinformatics Analysis Hub** — a curated collection of RPubs reports and visualizations focused on single-cell RNA-seq analysis of Sézary syndrome using 10x Genomics data.
 
-Use the navigation bar above or explore the featured reports below.
-
----
-
-```
+Use the navigation bar above or explore the featured reports from the menu.
