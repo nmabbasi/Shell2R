@@ -1,7 +1,6 @@
 project:
   type: website
-  output-dir: docs  # <-- ✅ Add this under 'project'
-
+  output-dir: docs
 
 website:
   title: "Shell2R Bioinformatics Hub"
@@ -11,13 +10,13 @@ website:
         href: index.qmd
       - text: "Single Cell Analysis Steps"
         menu:
-          - text: "Processing of scRNA data till Annotation bu Azimuth, SingleR and ProjectTils"
+          - text: "Processing of scRNA data till Annotation by Azimuth, SingleR and ProjectTILs"
             href: https://rpubs.com/nmabbasi/1175953
           - text: "ADT Normalization"
             href: https://rpubs.com/nmabbasi/1177672
-          - text: "WNN(Weighted Nearest Neighbor) Analysis"
+          - text: "WNN (Weighted Nearest Neighbor) Analysis"
             href: https://rpubs.com/nmabbasi/1222758
-- text: "Integration"
+      - text: "Integration"
         menu:
           - text: "Integration (CCA)"
             href: https://rpubs.com/nmabbasi/1180419
@@ -25,3 +24,11 @@ website:
             href: https://rpubs.com/nmabbasi/1180405
           - text: "Integration (Harmony)"
             href: https://rpubs.com/nmabbasi/1180435
+      - text: "TCR Analysis"
+        menu:
+          - text: "TCR Analysis"
+            href: https://rpubs.com/nmabbasi/1267032
+      - text: "Cell-Cell Communication"
+        menu:
+          - text: "CellChat Analysis"
+            href: https://rpubs.com/nmabbasi/1267055
