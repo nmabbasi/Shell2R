@@ -17,3 +17,11 @@ website:
             href: https://rpubs.com/nmabbasi/1177672
           - text: "WNN(Weighted Nearest Neighbor) Analysis"
             href: https://rpubs.com/nmabbasi/1222758
+- text: "Integration"
+        menu:
+          - text: "Integration (CCA)"
+            href: https://rpubs.com/nmabbasi/1180419
+          - text: "Integration (RPCA)"
+            href: https://rpubs.com/nmabbasi/1180405
+          - text: "Integration (Harmony)"
+            href: https://rpubs.com/nmabbasi/1180435
