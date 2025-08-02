@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This collection of Shell2R scripts is designed to streamline the processing and analysis of single-cell RNA sequencing (scRNA-seq) data generated with 10x Genomics platforms. The scripts automate key steps in the data workflow, from raw data handling to quality control, normalization, clustering, and downstream analysis.\nDeveloped within the context of studying Sézary syndrome heterogeneity, these scripts facilitate reproducible, scalable, and efficient bioinformatics pipelines specifically tailored for cancer genomics and immunophenotyping studies.\nThe goal is to provide an accessible and modular toolkit for researchers working on complex single-cell datasets, enabling rigorous exploration of tumor cell subpopulations and immune microenvironment interactions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shell2R Bioinformatics Hub",
+    "section": "",
+    "text": "# Welcome to Shell2R Bioinformatics Hub\n\nWelcome to the **Shell2R Bioinformatics Analysis Hub** — a collection of curated RPubs reports and interactive visualizations focused on single-cell RNA-seq analysis of Sézary syndrome using 10x Genomics data.\n\nUse the navigation bar above or explore the featured reports below.\n\n---\n\n### 🔗 Featured Reports\n\n1. Cell Type Annotation with Azimuth, SingleR, and ProjectTILs  \n   A comparative overview of automated annotation tools applied to Sézary syndrome and control CD4⁺ T cells.  \n   \n\n2. CITE-seq ADT Normalization and Visualization \n   Analysis of antibody-derived tag (ADT) normalization strategies, highlighting expression patterns of surface proteins across major cell clusters.  \n   \n\n3. Multimodal Integration via WNN Analysis \n  Joint integration of scRNA and ADT modalities using Weighted Nearest Neighbor (WNN) to refine clustering and capture lineage relationships in malignant and non-malignant populations."
+  }
+]

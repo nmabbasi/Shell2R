@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs  # <-- ✅ Add this under 'project'
+
 
 website:
   title: "Shell2R Bioinformatics Hub"
