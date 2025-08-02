@@ -15,18 +15,4 @@ Use the navigation bar above or explore the featured reports below.
 
 ---
 
-### 🔗 Featured Reports
-
-1. Cell Type Annotation with Azimuth, SingleR, and ProjectTILs  
-   A comparative overview of automated annotation tools applied to Sézary syndrome and control CD4⁺ T cells.  
-   
-
-2. CITE-seq ADT Normalization and Visualization 
-   Analysis of antibody-derived tag (ADT) normalization strategies, highlighting expression patterns of surface proteins across major cell clusters.  
-   
-
-3. Multimodal Integration via WNN Analysis 
-  Joint integration of scRNA and ADT modalities using Weighted Nearest Neighbor (WNN) to refine clustering and capture lineage relationships in malignant and non-malignant populations.  
-   
-  
 ```
