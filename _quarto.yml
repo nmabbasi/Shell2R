@@ -33,10 +33,12 @@ website:
           - text: "CellChat Analysis"
             href: https://rpubs.com/nmabbasi/1267055
     right:
-      - href: https://github.com/nmabbasi
-        text: '<i class="fab fa-github"></i> GitHub'
-      - href: https://www.linkedin.com/in/nasir-mahmood-abbasi-13434218/
-        text: '<i class="fab fa-linkedin"></i> LinkedIn'
+      - icon: github
+        href: https://github.com/nmabbasi
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nasir-mahmood-abbasi-13434218/
+      - icon: twitter
+        href: https://x.com/nmabbasi
       - href: mailto:nmabbasi@gmail.com
         text: '<i class="fas fa-envelope"></i> Email'
 
@@ -45,4 +47,4 @@ format:
     theme: 
       light: sketchy
       dark: yeti
-
+toc: true
