@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Shell2R Bioinformatics Hub"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Single Cell Analysis Steps"
+        menu:
+          - text: "Processing of scRNA data till Annotation bu Azimuth, SingleR and ProjectTils"
+            href: https://rpubs.com/nmabbasi/1175953
+          - text: "ADT Normalization"
+            href: https://rpubs.com/nmabbasi/1177672
+          - text: "WNN(Weighted Nearest Neighbor) Analysis"
+            href: https://rpubs.com/nmabbasi/1222758
