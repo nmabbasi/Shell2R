@@ -5,7 +5,6 @@ project:
 website:
   title: "Shell2R Bioinformatics Hub"
   site-url: "https://nmabbasi.github.io/shell2r"
-  base-url: "/shell2r"
 
   navbar:
     left:
