@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Shell2R Bioinformatics Hub"
+  site-url: "https://nmabbasi.github.io/shell2r"
+  base-url: "/shell2r"
+
   navbar:
     left:
       - text: "Home"
@@ -32,6 +35,7 @@ website:
         menu:
           - text: "CellChat Analysis"
             href: https://rpubs.com/nmabbasi/1267055
+
     right:
       - icon: github
         href: https://github.com/nmabbasi
@@ -39,12 +43,15 @@ website:
         href: https://www.linkedin.com/in/nasir-mahmood-abbasi-13434218/
       - icon: twitter
         href: https://x.com/nmabbasi
-      - href: mailto:nmabbasi@gmail.com
-        text: '<i class="fas fa-envelope"></i> Email'
+      - icon: envelope
+        href: mailto:nmabbasi@gmail.com
 
 format:
   html:
-    theme: 
+    theme:
       light: sketchy
       dark: yeti
-toc: true
+    toc: true
+    page-layout: full
+    grid:
+      body-width: 900px
